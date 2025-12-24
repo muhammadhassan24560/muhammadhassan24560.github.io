@@ -1,39 +1,22 @@
 # Muhammad Hassan
 
-Mechatronics & Control Engineer  
-Prospective MSc Student in Intelligent Systems  
-
-📧 your.email@example.com  
-🔗 GitHub | LinkedIn  
-
----
+![My Photo](images/myphoto.jpg)  <!-- You will need to upload your photo to 'images' folder -->
 
 ## About Me
-I am a Mechatronics and Control Engineering graduate from the University of Engineering and Technology Lahore,
-with interests in industrial automation, intelligent systems, and applied machine learning.
+I am a Mechatronics and Control Engineering graduate from one of Pakistan’s leading public-sector universities, with a strong academic record supported by hands-on projects and experience in reputable organizations. I am now seeking a Master’s position focused on computer vision, machine learning, and intelligent systems, where I can advance my knowledge and contribute to research on how machines perceive, interpret, and interact with real-world environments.
+
+**Research Interests:** Computer Vision, Machine Learning, Intelligent Systems, Intelligent Robotics
 
 ---
 
-## Projects
-### Autonomous Variable Size Paper Cutting Machine
-- PLC (Mitsubishi FX-3U), HMI (Weintek)
-- Improved safety and efficiency using Industry 4.0 concepts
-
-### Student Performance Prediction System
-- Fuzzy Logic and Neural Networks
-- Academic performance forecasting using Kaggle datasets
+## Education
+**University of Engineering and Technology (U.E.T), Lahore**  
+B.Sc. Mechatronics and Control Engineering | 2020 - 2024  
+CGPA: 3.301 / 4  
+[Website](https://www.uet.edu.pk/)
 
 ---
 
-## Skills
-- PLC & HMI Programming
-- MATLAB & Simulink
-- Control Systems
-- Machine Learning (Foundations)
-
----
-
-## Research Interests
-- Intelligent Control Systems
-- Industrial Automation
-- AI for Engineering Applications
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/muhammad-hassan-8a1ba9200)  
+- [Email](mailto:muhammadhassan24560@gmail.com)
