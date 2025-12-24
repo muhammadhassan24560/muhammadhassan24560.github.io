@@ -1,6 +1,6 @@
 # Muhammad Hassan
 
-![My Photo](images/myphoto.jpg)  <!-- You will need to upload your photo to 'images' folder -->
+![Profile Image](images/profile-image.png)  <!-- You will need to upload your photo to 'images' folder -->
 
 ## About Me
 I am a Mechatronics and Control Engineering graduate from one of Pakistan’s leading public-sector universities, with a strong academic record supported by hands-on projects and experience in reputable organizations. I am now seeking a Master’s position focused on computer vision, machine learning, and intelligent systems, where I can advance my knowledge and contribute to research on how machines perceive, interpret, and interact with real-world environments.
