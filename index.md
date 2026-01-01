@@ -2,13 +2,19 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 40px;">
 
-  <img src="images/profile-image.png" alt="Profile Photo" width="150" style="border-radius: 6px;">
+  <img src="images/profile-image.png"
+       alt="Profile Photo"
+       width="150"
+       style="border-radius: 6px;">
 
   <div>
-    <h1>Muhammad Hassan</h1>
-    <p style="font-size: 1.1em;">
+    <h1 style="font-size: 2.6em; margin-bottom: 6px;">
+      Muhammad Hassan
+    </h1>
+
+    <p style="font-size: 1.15em; margin-top: 0;">
       <strong>Mechatronics & Control Engineer</strong>
     </p>
 
@@ -32,4 +38,18 @@ I am a Mechatronics and Control Engineering graduate from one of Pakistan’s le
 - Computer Vision  
 - Machine Learning  
 - Intelligent Systems  
-- Applications in Intelligent Robotics
+- Applications in Intelligent Robotics  
+
+---
+
+## Education
+**University of Engineering and Technology, Lahore**  
+B.S. in Mechatronics and Control Engineering • Sep. 2024
+
+---
+
+## Publications
+**Stepper-based Precise Paper Cutting Machine with PLC and HMI**  
+M. Z. Ur Rahman, M. S. Shabbir, **M. Hassan**, M. U. Hassan, H. Ahmad, A. Waleed  
+*IEEE Conference on Horizons of Information Technology and Engineering (HITE 2024)*  
+[Paper](https://ieeexplore.ieee.org/document/10777152)
