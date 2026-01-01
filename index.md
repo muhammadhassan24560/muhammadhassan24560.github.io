@@ -50,7 +50,7 @@ B.S. in Mechatronics and Control Engineering • Sep. 2024
 
 <br>
 
-## Publications
+## Publication
 **Stepper-based Precise Paper Cutting Machine with PLC and HMI**  
 M. Z. Ur Rahman, M. S. Shabbir, **M. Hassan**, M. U. Hassan, H. Ahmad, A. Waleed  
 *IEEE Conference on Horizons of Information Technology and Engineering (HITE 2024)*  
