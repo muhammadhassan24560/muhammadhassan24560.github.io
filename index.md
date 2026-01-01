@@ -9,7 +9,7 @@ layout: default
        width="150"
        style="border-radius: 6px;">
 
-  <div>
+  <div style="margin-top: -12px;">
     <h1 style="font-size: 2.6em; margin-bottom: 6px;">
       Muhammad Hassan
     </h1>
@@ -30,7 +30,9 @@ layout: default
 ---
 
 ## About Me
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 I am a Mechatronics and Control Engineering graduate from one of Pakistan’s leading public-sector universities, with a strong academic record supported by hands-on projects and experience in reputable organizations. I am now seeking a Master’s position focused on computer vision, machine learning, and intelligent systems, where I can advance my knowledge and contribute to research on how machines perceive, interpret, and interact with real-world environments.
+</div>
 
 ---
 
