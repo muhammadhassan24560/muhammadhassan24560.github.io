@@ -27,10 +27,14 @@ layout: default
 
 </div>
 
+<br>
+
 ## About Me
-<div style="text-align: justify; max-width: 900px;">
+<div style="text-align: justify;">
 I am a Mechatronics and Control Engineering graduate from one of Pakistan’s leading public-sector universities, with a strong academic record supported by hands-on projects and experience in reputable organizations. I am now seeking a Master’s position focused on computer vision, machine learning, and intelligent systems, where I can advance my knowledge and contribute to research on how machines perceive, interpret, and interact with real-world environments.
 </div>
+
+<br>
 
 ## Research Interests
 - Computer Vision  
@@ -38,9 +42,13 @@ I am a Mechatronics and Control Engineering graduate from one of Pakistan’s le
 - Intelligent Systems  
 - Applications in Intelligent Robotics  
 
+<br>
+
 ## Education
 **University of Engineering and Technology, Lahore**  
 B.S. in Mechatronics and Control Engineering • Sep. 2024
+
+<br>
 
 ## Publications
 **Stepper-based Precise Paper Cutting Machine with PLC and HMI**  
