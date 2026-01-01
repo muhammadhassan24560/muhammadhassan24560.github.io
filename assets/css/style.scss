@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Center the content like a faculty page */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Remove the fake sidebar spacing */
+header, footer {
+  display: none;
+}
+
+/* Improve text readability */
+section {
+  width: 100%;
+}
