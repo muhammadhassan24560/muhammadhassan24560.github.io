@@ -69,20 +69,6 @@ M. Z. Ur Rahman, M. S. Shabbir, **M. Hassan**, M. U. Hassan, H. Ahmad, A. Waleed
 
 <br>
 
-## Education
-**University of Engineering and Technology, Lahore**  
-B.S. in Mechatronics and Control Engineering • Sep. 2024
-
-<br>
-
-## Publications
-**Stepper-based Precise Paper Cutting Machine with PLC and HMI**  
-M. Z. Ur Rahman, M. S. Shabbir, **M. Hassan**, M. U. Hassan, H. Ahmad, A. Waleed  
-*IEEE Conference on Horizons of Information Technology and Engineering (HITE 2024)*  
-[Paper](https://ieeexplore.ieee.org/document/10777152)
-
-<br>
-
 ## Honours & Awards
 Final Year Project was funded by Pakistan Engineering Council (PEC) under PEC Final Year Design Project Financing (2023-2024).
 
@@ -90,8 +76,8 @@ Final Year Project was funded by Pakistan Engineering Council (PEC) under PEC Fi
 
 ## Work Experience
 **Intern – Instrumentation & Control**  
-[The Thal Industries Corporation Limited (Layyah Sugar Mills)](https://thalindustries.com/) • Nov 2025 - Present  
+[The Thal Industries Corporation Limited (Layyah Sugar Mills)](https://thalindustries.com/)     • Nov 2025 - Present  
 
 **Intern – Supply Chain**  
-PepsiCo International – Pakistan • 2024
+PepsiCo International – Pakistan     • 2024
 
