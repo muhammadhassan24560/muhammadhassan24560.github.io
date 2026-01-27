@@ -32,7 +32,7 @@ layout: default
 ## About Me
 <div style="text-align: justify;" markdown="1">
 I am a Mechatronics and Control Engineering graduate from one of Pakistan’s leading public-sector universities, with a strong academic record supported by hands-on projects and experience in reputable organizations.  
-I am exploring opportunities in **computer vision, machine learning, and intelligent systems**, aiming to deepen my expertise and contribute to advancing how machines perceive, interpret, and interact with the real world.  
+I am now exploring opportunities in **computer vision, machine learning, and intelligent systems**, aiming to deepen my expertise and contribute to advancing how machines perceive, interpret, and interact with the real world.  
 </div>
 
 ---
