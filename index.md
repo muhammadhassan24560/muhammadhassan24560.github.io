@@ -69,15 +69,49 @@ M. Z. Ur Rahman, M. S. Shabbir, **M. Hassan**, M. U. Hassan, H. Ahmad, A. Waleed
 
 <br>
 
-## Honours & Awards
-Final Year Project was funded by Pakistan Engineering Council (PEC) under PEC Final Year Design Project Financing (2023-2024).
+## Projects
+
+### WebCam Capture RGB Channel Visualization (Using OpenCV)
+- Python project to visualize and analyze RGB channels of images in real-time.
+- Interactive tool using OpenCV to separate Red, Green, and Blue channels for image processing experiments.
+- [View on GitHub](https://github.com/muhammadhassan24560/opencv-rgb-channel-visualization-python)
+
+### FYP: Autonomous Variable Size/Speed Precise Paper Cutting Machine with PLC and HMI
+- Industry 4.0-inspired project to design a fully autonomous paper-cutting machine addressing real industrial problems in Pakistan.  
+- Developed 3D CAD assembly, PLC control algorithms, stepper motor scaling, IR safety sensors, and HMI interface.  
+- Funded by the **Pakistan Engineering Council (PEC)** under PEC Final Year Design Project Financing (2023-2024).  
+- [View Paper](https://ieeexplore.ieee.org/document/10777152)
+
+### Smart Student Performance Predictor: Fuzzy vs Neural Network
+- Developed both Fuzzy Logic and Neural Network systems to predict students' academic performance.  
+- Inputs: attendance, study habits, and previous grades; applied 36 fuzzy rules.  
+- Compared outputs to evaluate which approach provided more accurate predictions, enabling personalized learning strategies.
+
+### Smart Sports Classifier: Image Processing with MATLAB
+- Developed an algorithm to classify 10 types of sports items using image processing and statistical features.  
+- Accurately identified items like soccer balls, basketballs, and tennis rackets.  
+- Demonstrated practical AI applications for automated sports item recognition, useful in inventory and retail management.
+
+### MATLAB Simulation of a 2-DoF RR Planar Manipulator: Trajectory Tracking Analysis
+- Simulated a 2-DoF RR planar manipulator in MATLAB following a circular reference trajectory.  
+- Implemented trajectory generation, inverse kinematics, and inverse dynamics to compute joint parameters and torques.  
+- Analyzed and compared desired vs actual end-effector positions, velocities, accelerations, and joint angles.
+
+### Boxing Practice Robot with Controllable Arm Height
+- Designed a 3-DOF PRP robotic manipulator to simulate human arm motions for boxing practice.  
+- Conducted kinematic analysis, forward/inverse kinematics, and velocity modeling to achieve precise punching motions.  
+- Evaluated workspace and motor velocity requirements to ensure smooth trajectory tracking for training scenarios.
+
+### Modeling, Simulation, and Analysis of Linear Solenoid Actuator
+- Modeled electrical (linear solenoid) and mechanical (crank-slider) subsystems in MATLAB/Simulink.  
+- Simulated system response to pulse wave inputs and analyzed outputs.  
+- Investigated behavior under different inputs using MATLAB’s data inspector.
 
 <br>
 
 ## Work Experience
 **Intern – Instrumentation & Control**  
-[The Thal Industries Corporation Limited (Layyah Sugar Mills)](https://thalindustries.com/)     • Nov 2025 - Present  
+The Thal Industries Corporation Limited (Layyah Sugar Mills) [Link](https://thalindustries.com/) &nbsp; **Nov 2025 - Present** 
 
 **Intern – Supply Chain**  
-PepsiCo International – Pakistan     • 2024
-
+PepsiCo International – Pakistan  &nbsp; 2024
