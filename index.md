@@ -46,7 +46,7 @@ I am a Mechatronics and Control Engineering graduate from one of Pakistan’s le
 
 ## Education
 **University of Engineering and Technology, Lahore**  
-B.S. in Mechatronics and Control Engineering • Sep. 2024
+B.S. in Mechatronics and Control Engineering &nbsp; **2020-2024**
 
 <br>
 
