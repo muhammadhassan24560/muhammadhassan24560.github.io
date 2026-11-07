@@ -32,7 +32,7 @@ layout: default
 
 I am currently pursuing a Master's degree in Energy AI at the Korea Institute of Energy Technology (KENTECH), South Korea. I am a member of the <a href="https://sites.google.com/view/envilab-kentech/home" target="_blank">ENVI Lab</a>, where I am involved in a medical imaging research project.
 
-I hold a Bachelor's degree in Mechatronics and Control Engineering from the University of Engineering and Technology, Lahore, Pakistan. My academic background in engineering and intelligent systems complements my current research interests in computer vision, machine learning, and medical imaging.
+I hold a Bachelor's degree in Mechatronics and Control Engineering from the University of Engineering and Technology, Lahore, Pakistan.
 
 </div>
 
